@@ -1,0 +1,19 @@
+Package: FiMAP
+Title: Fast Identity-by-Descent Mapping Test
+Version: 0.1.0
+Authors@R: 
+    person(given = "Han",
+           family = "Chen",
+           role = c("aut", "cre"),
+           email = "Han.Chen.2@uth.tmc.edu",
+           comment = c(ORCID = "0000-0002-9510-4923"))
+Description: Perform efficient identity-by-descent (IBD) mapping test using
+    IBD segments to identify genomic regions associated with complex traits in
+    large biobank-scale cohorts.
+License: GPL-3
+Imports: CompQuadForm, foreach, parallel, Matrix, GMMAT, methods
+Suggests: doMC
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
