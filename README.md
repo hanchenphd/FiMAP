@@ -8,7 +8,7 @@ For optimal computational performance, it is recommended to use an R version con
 
 To install FiMAP from GitHub, please use
 ```
-devtools::install_github("hanchenphd/FiMAP")
+devtools::install_github("hanchenphd/FiMAP", ref = "main")
 ```
 ## Version
 The current version is 0.1.0 (July 1, 2021).
