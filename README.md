@@ -19,7 +19,8 @@ Please refer to the R help document of FiMAP for specific questions about each f
 ## References
 <p>If you use FiMAP, please cite
 <li>Chen H, Naseri A, Zhi D. (2021) FiMAP: A Fast Identity-by-Descent Mapping
-Test for Biobank-scale Cohorts. <em>Coming soon...</em>
+Test for Biobank-scale Cohorts. <em>medRxiv</em> 2021.06.30.21259773
+[<b>Preprint</b>]. July 5, 2021. DOI: <a href="https://doi.org/10.1101/2021.06.30.21259773">10.1101/2021.06.30.21259773</a>.</li></p>
 
 
 
